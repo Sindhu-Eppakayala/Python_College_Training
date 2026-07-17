@@ -16,7 +16,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day01_basic_programs.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
@@ -29,7 +29,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day02_conditionals_and_complexity.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
@@ -41,7 +41,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day03_typecasting_problems.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
@@ -53,7 +53,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day04_list_builtin_practice.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
@@ -66,7 +66,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day05_patterns_problems.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
@@ -79,7 +79,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day06_oop_constructors_examples.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
@@ -92,7 +92,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day07_inheritance_examples.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
@@ -104,7 +104,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day08_sliding_window_problems.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
@@ -115,8 +115,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day09_sliding_window_and_basics.py`
-
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 ---
 
 ### Day 10 – Search Algorithms & LeetCode
@@ -127,7 +126,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day10_search_algorithms_problems.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
@@ -139,8 +138,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day11_stack_queue_problems.py`
-
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 ---
 
 ### Day 12 – LeetCode Practice Across All Topics
@@ -154,7 +152,7 @@ Topics:
 
 Files:
 - Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
-- Code: `code/day12_leetcode_mixed_problems.py`
+- Code: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/a3e275bc6765c8a66e1c8c0536eefe2c697a714f/Code
 
 ---
 
