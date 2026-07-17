@@ -173,7 +173,7 @@ As an aspiring SOC Analyst and Cyber Security student, this Python training help
 - Build scripts that can later automate parts of SOC work (log parsing, data filtering, etc.).
 
 I also maintain a separate repo for my cybersecurity notes:
-- [Cyber-crime – daily cybersecurity learning](https://github.com/Sindhu-Eppakayala/Cyber-crime)
+- https://github.com/Sindhu-Eppakayala/Cyber-crime/blob/85da49734e56218716ab55a4e52735930b583f41/README.md
 
 ## 👩‍💻 About Me
 
