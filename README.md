@@ -15,7 +15,7 @@ Topics:
 - Simple practice programs (input/output, arithmetic)
 
 Files:
-- Notes: `notes/day01_intro_and_basics.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day01_basic_programs.py`
 
 ---
@@ -28,7 +28,7 @@ Topics:
 - Time complexity and space complexity (basic idea)
 
 Files:
-- Notes: `notes/day02_companies_conditionals_complexity.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day02_conditionals_and_complexity.py`
 
 ---
@@ -40,7 +40,7 @@ Topics:
 - Problem solving using conditionals + type casting
 
 Files:
-- Notes: `notes/day03_typecasting_and_conditionals.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day03_typecasting_problems.py`
 
 ---
@@ -52,7 +52,7 @@ Topics:
 - Problem solving using list methods
 
 Files:
-- Notes: `notes/day04_lists_and_builtin_functions.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day04_list_builtin_practice.py`
 
 ---
@@ -65,7 +65,7 @@ Topics:
   - Diamond, timer symbol, etc.
 
 Files:
-- Notes: `notes/day05_pattern_problems.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day05_patterns_problems.py`
 
 ---
@@ -78,7 +78,7 @@ Topics:
 - Practice problems using classes and constructors
 
 Files:
-- Notes: `notes/day06_oop_constructors.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day06_oop_constructors_examples.py`
 
 ---
@@ -91,7 +91,7 @@ Topics:
 - Problem solving for each type of inheritance
 
 Files:
-- Notes: `notes/day07_inheritance_and_encapsulation.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day07_inheritance_examples.py`
 
 ---
@@ -103,7 +103,7 @@ Topics:
 - Basic sliding window problems
 
 Files:
-- Notes: `notes/day08_sliding_window_intro.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day08_sliding_window_problems.py`
 
 ---
@@ -114,7 +114,7 @@ Topics:
 - Solving some LeetCode-style problems from earlier topics (Day 1–3)
 
 Files:
-- Notes: `notes/day09_sliding_window_and_revision.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day09_sliding_window_and_basics.py`
 
 ---
@@ -126,7 +126,7 @@ Topics:
 - LeetCode problems using search logic
 
 Files:
-- Notes: `notes/day10_search_algorithms_and_leetcode.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day10_search_algorithms_problems.py`
 
 ---
@@ -138,7 +138,7 @@ Topics:
 - Basic problems using stack and queue logic
 
 Files:
-- Notes: `notes/day11_stack_and_queue.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day11_stack_queue_problems.py`
 
 ---
@@ -153,7 +153,7 @@ Topics:
   - Stack and queue
 
 Files:
-- Notes: `notes/day12_leetcode_revision_all_topics.md`
+- Notes: https://github.com/Sindhu-Eppakayala/Python_College_Training/tree/35eee38cb16d156b65aaa5ec43a0cbe91d5e0013/Notes
 - Code: `code/day12_leetcode_mixed_problems.py`
 
 ---
